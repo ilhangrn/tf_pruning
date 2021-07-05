@@ -1,4 +1,4 @@
-print("ig_solo")
+print("ig_solo started")
 import tensorflow_model_optimization
 
 import tempfile
